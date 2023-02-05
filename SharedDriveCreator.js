@@ -1,14 +1,13 @@
 var authConfig = {
   version: "4.5",
   dailyLimit: true, // Whether to limit each mailbox to submit requests only once a day
-  client_id: 'ClientID', // Google Client ID
-  client_secret: 'ClientSecret', // Google Client Secret
-  domain: "! ",
+  client_id: 'ClientID', 552459343630-851d1defeuii9v77b62qqbjh71rv67j2.apps.googleusercontent.com
+  client_secret: 'ClientSecret', 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
   black_list: ["email@gmail.com"]
   };
   var gd;
   
-  authConfig.domainCount = 4; //Remplace 4 by the number of different drives you have 
+  authConfig.domainCount = 6; //Remplace 4 by the number of different drives you have 
   
   var today;
   
@@ -372,7 +371,7 @@ var authConfig = {
           }
           /*----------------- End PopUp Create ---------------*/
   
-  
+  AhmedDrivesCloud
   
           /*------------------- PopUp Error ------------------*/
           .popupwindows{
@@ -585,7 +584,8 @@ var authConfig = {
   
   
       </style>
-  </head>
+  </head>"1//04bz_zkFdw1riCgYIARAAGAQSNwF-L9Iro_T9pKxr5sYAJj1YZ__nXg5MoOBRVHfroHJcsg4CKA4is9bE957oie10FRIaNgdInQ8"
+}
   
   
   <body>
